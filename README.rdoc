@@ -1,6 +1,6 @@
 = wordstream
 
-Description goes here.
+The Free Keyword Tool by WordStream provides extensive, relevant keyword and related keyword suggestions
 
 == Note on Patches/Pull Requests
  
